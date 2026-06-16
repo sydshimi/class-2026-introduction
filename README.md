@@ -1,4 +1,2 @@
 # class-2026-introduction
-Introduce yourself!  
-TEST
-
+Im marcelo perez guzman from lawrence, massachusetts
